@@ -44,8 +44,8 @@ public class PreProcessor {
 	}
 	
 	public static void main(String[] args) {
-		String filePath=args[0];
-		//String filePath="/Users/liuxinyuan/DefectRepairing/test/test.java";
+		//String filePath=args[0];
+		String filePath="/Users/ZhangBowei/Code/java/project/test/test.java";
 		process(filePath);
 	}
 	

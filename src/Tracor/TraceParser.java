@@ -839,7 +839,7 @@ public class TraceParser {
 	}
 
 	public static void main(String args[]) {
-		String TraceFile = args[0];
+		String TraceFile = "/Users/ZhangBowei/Code/java/project/test/a.txt";
 		
 		Spectrum spec = new Spectrum();
 		try {
